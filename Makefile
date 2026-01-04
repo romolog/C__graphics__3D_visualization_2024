@@ -12,7 +12,7 @@
 
 NAME = fdf
 
-FLAGS_WWW = -Wextra -Wall -Werror
+FLAGS_WWW = -Wextra -Wall
 FLAGS_OPTIMIZE = -O3
 FLAGS_LIBMLX = -L/usr/lib -lXext -lX11 -lm -lz
 
