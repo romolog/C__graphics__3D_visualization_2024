@@ -10,7 +10,7 @@
 #                                                                              #
 # **************************************************************************** #
 
-NAME = fdf
+NAME = map_3d
 
 FLAGS_WWW = -Wextra -Wall
 FLAGS_OPTIMIZE = -O3

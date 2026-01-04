@@ -57,7 +57,7 @@ OBJS_T := $(addprefix $(OBJ_PATH), $(C_FILES))
 OBJS = $(OBJS_T:.c=.o)
 
 CC = cc
-CC_WWW_FLAGS = -Wall -Wextra -Werror
+CC_WWW_FLAGS = -Wall -Wextra
 CC_FLAGS = -g
 INCLD_FLAGS = -I$(INCLD_PATH)
 
