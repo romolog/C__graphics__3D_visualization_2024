@@ -25,5 +25,5 @@ make;
 
 ### Run
 ```bash
-./webserv ./maps/1t.fdf;
+./map_3d ./maps/1t.fdf;
 ```
